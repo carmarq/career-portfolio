@@ -1,2 +1,15 @@
-{
+html {
+	height: 100%;
+}
+body {
+	background: linear-gradient(45deg, Aquamarine, forestgreen);
+	margin: 0;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.center {
+		width:100%;
+		margin:auto;
+		text-align: center;
 }
