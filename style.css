@@ -5,3 +5,14 @@ body {
 	background-attachment: fixed;
 }
 
+p, h1, h2, h3, li, ul{
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+div a {
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+}
