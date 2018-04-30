@@ -1,13 +1,13 @@
 body {
 	background: linear-gradient(45deg, floralwhite, ghostwhite);
-	margin: 0;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	display: block;
+	margin: 0 15em 15em 15em;
 }
 
 p, h1, h2, h3, li, ul{
 	text-align: center;
-	margin: 0 auto;
 }
 
 
