@@ -6,8 +6,9 @@ body {
 	margin: 0 15em 15em 15em;
 }
 
-h1, h2, h3, li, ul{
+p, h1, h2, h3, li, ul{
 	text-align: center;
+	margin: 0;
 }
 
 
